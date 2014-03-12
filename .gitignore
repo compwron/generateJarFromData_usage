@@ -8,4 +8,7 @@ out
 build
 META-INF
 *.class
+
+# see sample
 db.properties
+gradle.properties
